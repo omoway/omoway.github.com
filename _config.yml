@@ -2,7 +2,7 @@ title:            Life Cycles
 tagline:          life cycles
 description:      life cycles.
 #Comment out url when working locally to resolve base urls correctly
-url: http://omoway.github.com
+url: http://www.omoway.com
 
 # Owner/author information
 owner:
@@ -14,7 +14,7 @@ owner:
   github:         omoway
   instagram:      imyousri
 #  dribbble:       
-  disqus:         life-cycles
+  disqus:         yupoo-lifecycles
   # Plug in your disqus shortname!
   
 
