@@ -2,14 +2,14 @@ title:            Life Cycles
 tagline:          life cycles
 description:      life cycles.
 #Comment out url when working locally to resolve base urls correctly
-url: http://omoway.github.io
+url: https://omoway.github.io
 
 # Owner/author information
 owner:
   name:           omoway 
 #  avatar:         avatar.png
 #  bio:            "Aesthete & Athlete"
-  email:          qingxian.yan@upai.com
+  email:          qingxianyan@gmail.com
   twitter:        Yousri
   weibo:          omoway
   github:         omoway
