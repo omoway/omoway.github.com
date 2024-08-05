@@ -50,4 +50,4 @@ comments: true
 
 感受了一回相对较为清晨的西湖美景，来回就那么短短2个来小时，但是回味延续……
 
-![](https://cdn.jsdelivr.net/gh/omoway/oss/images/lifecycles/licheng.jpg!)
+![](https://cdn.jsdelivr.net/gh/omoway/oss/images/lifecycles/licheng.jpg)
